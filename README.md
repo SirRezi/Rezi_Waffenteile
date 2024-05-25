@@ -19,6 +19,7 @@ Dieses System ermöglicht es Spielern in einem FiveM Server, Schrott von einem b
 1. Laden Sie die Skriptdateien herunter.
 2. Platzieren Sie die Skriptdateien im Ordner `resources` Ihres FiveM-Servers.
 3. Fügen Sie `ensure Rezi_Waffenteile` Ihrer `server.cfg`-Datei hinzu.
+4. Importieren Sie die MySQL-Datenbankstruktur aus der Datei `SirRezi_Import.sql` in Ihre MySQL-Datenbank.
 
 ---
 
