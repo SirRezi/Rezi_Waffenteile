@@ -35,8 +35,6 @@ Dieses System ermöglicht es Spielern in einem FiveM Server, Schrott von einem b
 
 ---
 
-#### Credits:
-- **Skriptautor:** SirRezi
 ---
 
 
